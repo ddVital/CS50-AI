@@ -1,2 +1,1 @@
-# meditation-app
-meditation app
+# CS50 AI
